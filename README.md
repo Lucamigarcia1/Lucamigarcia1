@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Camilo García, but you can find me on GitHub as @Lucamigarcia1
+- 👋 Hi, I’m Luis Camilo Garcia, but you can find me on GitHub as @Lucamigarcia1
 - 👀 I’m interested in building high-performing teams across the Americas and leveraging technology to enhance talent acquisition strategies.
 - 🌱 I’m currently learning advanced recruitment techniques and data-driven decision-making in talent management, also advantages of artifitial intelligence in Recruitment.
 - 💞️ I’m looking to collaborate on innovative recruitment projects that bridge the gap between talent and opportunity across North and South America specially with IT professionals.
